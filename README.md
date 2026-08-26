@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0027-remove-element) |
+| [0455-assign-cookies](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -115,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
