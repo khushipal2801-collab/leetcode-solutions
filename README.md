@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -121,9 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
