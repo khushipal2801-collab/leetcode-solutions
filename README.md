@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
