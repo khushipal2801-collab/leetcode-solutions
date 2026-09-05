@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [2248-intersection-of-multiple-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2248-intersection-of-multiple-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## String
 |  |
 | ------- |
@@ -81,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [2248-intersection-of-multiple-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [2248-intersection-of-multiple-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
