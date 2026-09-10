@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2540-minimum-common-value](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
+| [2540-minimum-common-value](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [2540-minimum-common-value](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2540-minimum-common-value](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
