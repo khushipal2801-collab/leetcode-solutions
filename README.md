@@ -183,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [2652-sum-multiples](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2652-sum-multiples) |
 <!---LeetCode Topics End-->
