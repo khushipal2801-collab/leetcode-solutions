@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Stack
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
