@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0645-set-mismatch) |
