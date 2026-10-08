@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0202-happy-number) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0143-reorder-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -298,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
