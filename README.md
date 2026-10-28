@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0198-house-robber) |
+| [0229-majority-element-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -137,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2248-intersection-of-multiple-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
