@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -258,12 +259,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0067-add-binary) |
 | [0172-factorial-trailing-zeroes](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0202-happy-number) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0067-add-binary) |
 | [0287-find-the-duplicate-number](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
