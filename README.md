@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
