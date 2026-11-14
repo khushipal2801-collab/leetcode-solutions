@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1539-kth-missing-positive-number](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [2540-minimum-common-value](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2540-minimum-common-value) |
 ## Matrix
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0202-happy-number) |
+| [0367-valid-perfect-square](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
