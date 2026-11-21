@@ -5,5 +5,5 @@ class Solution:
         if n%2==1:
             return a[n//2]
         else :
-            return (a[n//2-1]+a[n//2])/2    
+            return (a[n//2-1]+a[n//2])/2 #median 
         
