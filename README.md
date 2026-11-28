@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0229-majority-element-ii) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/khushipal2801-collab/leetcode-solutions/tree/master/0143-reorder-list) |
